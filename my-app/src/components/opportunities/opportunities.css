@@ -1,0 +1,9 @@
+.opp .slick-next{
+    right: -25px !important;
+}
+.opp .slick-prev{
+    left: -25px !important;
+}
+.card-img-top{
+    height: 170px;
+}

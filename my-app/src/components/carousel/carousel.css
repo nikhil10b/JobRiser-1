@@ -1,0 +1,18 @@
+.slick-next{
+    right: 30px !important;
+}
+.slick-prev{
+    left: 30px !important;
+}
+.outer-banner{
+    display: flex !important;
+    justify-content: center;
+}
+.banner{
+    width: 66%;
+    height: 50vh;
+}
+.carousel{
+    margin: 100px 0px;
+    margin-top: 150px;
+}

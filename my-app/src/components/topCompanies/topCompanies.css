@@ -48,13 +48,14 @@
     align-items: center;
     padding: 15px;
     perspective: 100px;
+    margin: 0px 27px ;
     /* border-radius: 20%; */
   }
   .slide-company img {
     width: 100%;
     transition: transition 1s;
     /* border-radius: 15%; */
-    height: 100px;
+    /* height: 100px; */
   }
   .slide-company img:hover {
     transform: translateZ(10px);

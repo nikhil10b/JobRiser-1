@@ -1,0 +1,13 @@
+.sign-up-image {
+    height: 438px;
+    width: 58%;
+}
+.container{
+    background-color: black !important;
+}
+.login-heading{
+    color: black;
+}
+.login-btn:hover{
+    transform: scale(1.1);
+}

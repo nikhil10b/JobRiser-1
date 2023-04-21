@@ -33,9 +33,12 @@ nav ul li{
     padding: 10px 20px;
 }
 nav ul li a{
-    color: white;
+    color: white !important;
     text-decoration: none;
     font-weight: bold;
+}
+nav ul li a:hover{
+    color: #9945ff !important;
 }
 nav ui li a:hover{
     color: #ea1538;

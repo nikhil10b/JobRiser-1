@@ -5,14 +5,14 @@ import "./topCompanies.css"
 function TopCompanies() {
   return (
     <div className='top-company'>
-        <div className='company-heading'>
+        {/* <div className='company-heading'>
             TOP COMPANIES 
-        </div>
+        </div> */}
       <div class="slider">
         <div class="slide-track">
           <div className="slide-company">
             <img
-              src="/images/google.png"
+              src="/images/google-2.png"
               alt=""
             />
           </div>
@@ -28,7 +28,7 @@ function TopCompanies() {
 
           <div className="slide-company">
             <img
-              src="/images/cisco.jpg
+              src="/images/cisco-2.png
 "
               alt=""
             />
@@ -49,7 +49,7 @@ function TopCompanies() {
           </div>
           <div className="slide-company">
             <img
-              src="/images/wipro.png
+              src="/images/wipro-2.png
 "
               alt=""
             />

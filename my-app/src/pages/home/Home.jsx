@@ -2,9 +2,15 @@ import React from 'react'
 import "./home.css"
 import TopCompanies from '../../components/topCompanies/TopCompanies'
 import Carousel from '../../components/carousel/Carousel'
+import Services from '../../components/services/Services'
+import Footer from '../../components/footer/Footer'
+import Opportunities from '../../components/opportunities/Opportunities'
+
+
 
 
 function Home() {
+
   return (
     <div>
         <div className='hero-outer-div'>
@@ -22,6 +28,9 @@ function Home() {
         </div>
         <TopCompanies/>
         <Carousel/>
+        <Services/>
+        <Opportunities/>
+        <Footer/>
         
 
     </div>
